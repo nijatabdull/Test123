@@ -1,0 +1,14 @@
+C:\Users\nijat\Desktop\Lessons\New\18.10.2025\ConsoleApp\ConsoleApp\bin\Release\net8.0\ConsoleApp.exe
+C:\Users\nijat\Desktop\Lessons\New\18.10.2025\ConsoleApp\ConsoleApp\bin\Release\net8.0\ConsoleApp.deps.json
+C:\Users\nijat\Desktop\Lessons\New\18.10.2025\ConsoleApp\ConsoleApp\bin\Release\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\nijat\Desktop\Lessons\New\18.10.2025\ConsoleApp\ConsoleApp\bin\Release\net8.0\ConsoleApp.dll
+C:\Users\nijat\Desktop\Lessons\New\18.10.2025\ConsoleApp\ConsoleApp\bin\Release\net8.0\ConsoleApp.pdb
+C:\Users\nijat\Desktop\Lessons\New\18.10.2025\ConsoleApp\ConsoleApp\obj\Release\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nijat\Desktop\Lessons\New\18.10.2025\ConsoleApp\ConsoleApp\obj\Release\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\nijat\Desktop\Lessons\New\18.10.2025\ConsoleApp\ConsoleApp\obj\Release\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\nijat\Desktop\Lessons\New\18.10.2025\ConsoleApp\ConsoleApp\obj\Release\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\nijat\Desktop\Lessons\New\18.10.2025\ConsoleApp\ConsoleApp\obj\Release\net8.0\ConsoleApp.dll
+C:\Users\nijat\Desktop\Lessons\New\18.10.2025\ConsoleApp\ConsoleApp\obj\Release\net8.0\refint\ConsoleApp.dll
+C:\Users\nijat\Desktop\Lessons\New\18.10.2025\ConsoleApp\ConsoleApp\obj\Release\net8.0\ConsoleApp.pdb
+C:\Users\nijat\Desktop\Lessons\New\18.10.2025\ConsoleApp\ConsoleApp\obj\Release\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\nijat\Desktop\Lessons\New\18.10.2025\ConsoleApp\ConsoleApp\obj\Release\net8.0\ref\ConsoleApp.dll
